@@ -60,6 +60,11 @@ body{
     background-color: #b82a2a;
     color: #FFF;
 }
+.btn:active{
+    background-color: #b82a2a !important;
+    color: #FFF !important;
+    border: none !important;
+}
 .theme-section{
     padding: 100px 0;
 }
