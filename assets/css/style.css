@@ -15,9 +15,9 @@ body{
     color: #FFF;
 }
 .hero-section{
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(19 24 30 / 70%)), to(rgb(19 24 30 / 70%))), url(../images/BG.png);
-    background-image: -o-linear-gradient(rgb(19 24 30 / 70%), rgb(19 24 30 / 70%)), url(../images/BG.png);
-    background-image: linear-gradient(rgb(19 24 30 / 70%), rgb(19 24 30 / 70%)), url(../images/BG.png);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(19 24 30 / 70%)), to(rgb(19 24 30 / 70%))), url(../images/BG.jpg);
+    background-image: -o-linear-gradient(rgb(19 24 30 / 70%), rgb(19 24 30 / 70%)), url(../images/BG.jpg);
+    background-image: linear-gradient(rgb(19 24 30 / 70%), rgb(19 24 30 / 70%)), url(../images/BG.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
