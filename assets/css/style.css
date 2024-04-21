@@ -125,9 +125,9 @@ body{
 }
 
 .dish-img img {
-    /* -webkit-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
         -ms-transform: scale(1.2);
-            transform: scale(1.2); */
+            transform: scale(1.2);
     /* margin-left: -30px; */
 }
 
@@ -256,10 +256,10 @@ a.social-icon i {
         line-height: 68px;
     }
     .dish-img img {
-        /* -webkit-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
             -ms-transform: scale(1.1);
                 transform: scale(1.1);
-        margin-left: -30px; */
+        margin-left: -30px;
     }
     .dish_name_details h5, .dish_price {
         font-size: 20px;
@@ -300,10 +300,10 @@ a.social-icon i {
         line-height: 60px;
     }
     .dish-img img {
-        /* -webkit-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
             -ms-transform: scale(1.1);
                 transform: scale(1.1);
-        margin-left: -30px; */
+        margin-left: -30px;
     }
     .dish_name_details h5, .dish_price {
         font-size: 20px;
@@ -355,10 +355,10 @@ a.social-icon i {
         line-height: 46px;
     }
     .dish-img img {
-        /* -webkit-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
             -ms-transform: scale(1.1);
                 transform: scale(1.1);
-        margin-left: -30px; */
+        margin-left: -30px;
     }
     .dish_name_details h5, .dish_price {
         font-size: 20px;
